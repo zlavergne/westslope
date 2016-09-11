@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /westslope
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: westslope
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeWestSlope
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
 gems:
