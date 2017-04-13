@@ -7,7 +7,7 @@ repo: westslope
 github_org: maptime
 maptime:
   chapter: MaptimeWestSlope
-  #twitter: TwitterHandle
+  twitter: MaptimeWestCO
   #disqus: YOUR DISQUS USERNAME
 
 gems:
